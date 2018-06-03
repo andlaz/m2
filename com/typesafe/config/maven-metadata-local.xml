@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.typesafe</groupId>
+  <artifactId>config</artifactId>
+  <versioning>
+    <release>1.3.0-9e8047ec10559c1a41ee503b8bb5bd31e42af59c</release>
+    <versions>
+      <version>1.3.0-9e8047ec10559c1a41ee503b8bb5bd31e42af59c</version>
+    </versions>
+    <lastUpdated>20180603151052</lastUpdated>
+  </versioning>
+</metadata>
